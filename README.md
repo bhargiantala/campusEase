@@ -1,2 +1,2 @@
 # campusEase
-this is my project
+This is my Project
